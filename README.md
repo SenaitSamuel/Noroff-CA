@@ -25,12 +25,15 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
 Install vue.js using "npm install -g @vue/cli"
+
 create a project using " vue create Card"
+
 > cd project
+
 run  "npm run serve"
+
 Adding Bootstrap styles and JavaScript using.-
 
   "npm install bootstrap jquery popper.js" 
@@ -72,4 +75,8 @@ import the  all componet and page files into main.js like this:-
 
 finally run “npm run build” to make final production. Then final html file is stored in dist folder.
 
+
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
